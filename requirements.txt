@@ -1,0 +1,6 @@
+argparse
+datetime
+json
+opencv-python==4.6.0.66
+numpy
+tqdm
