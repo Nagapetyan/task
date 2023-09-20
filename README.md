@@ -13,7 +13,7 @@ Kopernikus task
 
 ### Prerequisites
 
-List any prerequisites that the user needs to have installed before:
+List of prerequisites that you need to install before:
 
 - Python 3.7 or higher
 - pip package manager
@@ -32,7 +32,9 @@ List any prerequisites that the user needs to have installed before:
 ## Usage 
 
     ```bash
+    
     python python filter_images.py --dataset-path dataset
+    
     ```
     
 ## Questions & Answers
